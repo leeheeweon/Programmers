@@ -5,6 +5,7 @@ public class Main {
     public static void main(String[] args) {
 	// write your code here
         solution(123);
+
     }
     public static int solution(int n) {
         int answer = 0;

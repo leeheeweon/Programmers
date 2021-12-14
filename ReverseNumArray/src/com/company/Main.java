@@ -19,8 +19,6 @@ public class Main {
             count++;
         }
 
-
-
         return arr;
     }
 }
