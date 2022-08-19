@@ -6,7 +6,6 @@ public class Main {
         // write your code here
         int[] arr = {5, 5};
         solution(arr);
-
     }
 
     public static double solution(int[] arr) {
