@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AddDigits/AddDigits.iml" filepath="$PROJECT_DIR$/AddDigits/AddDigits.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ArrayAverage/ArrayAverage.iml" filepath="$PROJECT_DIR$/ArrayAverage/ArrayAverage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CheckStringLength/CheckStringLength.iml" filepath="$PROJECT_DIR$/CheckStringLength/CheckStringLength.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CountPrime/CountPrime.iml" filepath="$PROJECT_DIR$/CountPrime/CountPrime.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DeleteArrayMinNum/DeleteArrayMinNum.iml" filepath="$PROJECT_DIR$/DeleteArrayMinNum/DeleteArrayMinNum.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Divisor/Divisor.iml" filepath="$PROJECT_DIR$/Divisor/Divisor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EvenAndOdd/EvenAndOdd.iml" filepath="$PROJECT_DIR$/EvenAndOdd/EvenAndOdd.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FindKim/FindKim.iml" filepath="$PROJECT_DIR$/FindKim/FindKim.iml" />
+      <module fileurl="file://$PROJECT_DIR$/For/For.iml" filepath="$PROJECT_DIR$/For/For.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MakeAPrime/MakeAPrime.iml" filepath="$PROJECT_DIR$/MakeAPrime/MakeAPrime.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MiddleString/MiddleString.iml" filepath="$PROJECT_DIR$/MiddleString/MiddleString.iml" />
+      <module fileurl="file://$PROJECT_DIR$/NumberStringsAndEnglishWords/NumberStringsAndEnglishWords.iml" filepath="$PROJECT_DIR$/NumberStringsAndEnglishWords/NumberStringsAndEnglishWords.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PAndY/PAndY.iml" filepath="$PROJECT_DIR$/PAndY/PAndY.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Programmers.iml" filepath="$PROJECT_DIR$/.idea/Programmers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ReverseNumArray/ReverseNumArray.iml" filepath="$PROJECT_DIR$/ReverseNumArray/ReverseNumArray.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SSLPhoneNumber/SSLPhoneNumber.iml" filepath="$PROJECT_DIR$/SSLPhoneNumber/SSLPhoneNumber.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SetPassword/SetPassword.iml" filepath="$PROJECT_DIR$/SetPassword/SetPassword.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StringChangeToInt/StringChangeToInt.iml" filepath="$PROJECT_DIR$/StringChangeToInt/StringChangeToInt.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Subak/Subak.iml" filepath="$PROJECT_DIR$/Subak/Subak.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SumOfTwoNum/SumOfTwoNum.iml" filepath="$PROJECT_DIR$/SumOfTwoNum/SumOfTwoNum.iml" />
+    </modules>
+  </component>
+</project>
