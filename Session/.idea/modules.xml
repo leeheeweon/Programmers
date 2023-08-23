@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Capitalize.iml" filepath="$PROJECT_DIR$/Capitalize.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Session.iml" filepath="$PROJECT_DIR$/Session.iml" />
     </modules>
   </component>
 </project>
