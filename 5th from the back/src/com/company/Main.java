@@ -5,7 +5,7 @@ import java.util.Arrays;
 public class Main {
 
     public static void main(String[] args) {
-	// write your code here
+        // write your code here
         solution(new int[]{12, 4, 15, 46, 38, 1, 14, 56, 32, 10});
     }
 
